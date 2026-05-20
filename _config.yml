@@ -1,3 +1,6 @@
+url: "https://commission.nineonesoftware.com"
+baseurl: ""
+
 #page title
 page_title                                : The Commission App for iOS                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
